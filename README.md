@@ -20,6 +20,7 @@ And then compile:
 2) Mapp, an optimal sequence alignment used in Perli et al, 2016. The C++ code is available at: http://www.rle.mit.edu/sbg/resources/stgRNA/
 
 I) Perli, S. D., Cui, C. H. & Lu, T. K. Continuous genetic recording with self-targeting CRISPR-Cas in human cells. Science 353, aag0511 (2016).
+
 II) Zhang, J., Kobert, K., Flouri, T. & Stamatakis, A. PEAR: a fast and accurate Illumina Paired-End reAd mergeR. Bioinformatics 30, 614–620 (2014).
 
 We used Enthought Python 7.3.2 and Python 2.7.15
