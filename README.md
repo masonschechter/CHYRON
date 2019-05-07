@@ -14,9 +14,10 @@ We used a simple wrapper to feed the necesary information into pipeline.sh:
 
 
 You'll need to download:
-1) PEAR, to pair Paired End Illumina reads: https://sco.h-its.org/exelixis/web/software/pear/ 
+1) PEAR, to pair Paired End Illumina reads: https://sco.h-its.org/exelixis/web/software/pear/
 
 And then compile:
+
 2) Mapp, an optimal sequence alignment used in Perli et al, 2016. The C++ code is available at: http://www.rle.mit.edu/sbg/resources/stgRNA/
 
 I) Perli, S. D., Cui, C. H. & Lu, T. K. Continuous genetic recording with self-targeting CRISPR-Cas in human cells. Science 353, aag0511 (2016).
