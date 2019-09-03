@@ -38,12 +38,12 @@ You will need ins_parsing_no_umi.py, lib.py, and VectorSpaceWellMatrix.py
 2) In a separate text file (generally, we call it "exp"_well_data.txt), put each output file from step 1 into its own line
 3) Run ins_parsing_no_umi.py with the well_data.txt file as the the only command line argument. The output will be a pickle with a .pkl ending. To run:
 ```
-    $ python ins_parsing_no_umi.py myExp_well_data.txt```
+    $ python ins_parsing_no_umi.py myExp_well_data.txt ```
     
 4) To run the well pairing script, VectorSpaceWellMatrix.py, change the SYSTEM parameter "PICKLE_DATA_FILE" to the name of the output .pkl from step 3 and adjust your "LEN_CUTOFF" (insertion length)
 and "COUNT_CUTOFF" (insertion count) to produce your desired lineage reconstruction. To run:
 ```
-    $ python VectorSpaceWellMatrix.py```
+    $ python VectorSpaceWellMatrix.py ```
     
 This reconstruction algorithm was written by Mason Schechter and Bijan Agahi
 
