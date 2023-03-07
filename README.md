@@ -1,6 +1,6 @@
 # CHYRON
 
-The code repository associated with the paper: *insert link here*
+The code repository associated with the paper: https://doi.org/10.1038/s41589-021-00769-8
 
 ~~~~~~~~~~~~~~~~~~ * NGS Sequencing Pipeline * ~~~~~~~~~~~~~~~~~~~~
 
